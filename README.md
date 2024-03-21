@@ -55,13 +55,16 @@ endmodule
 ![image](https://github.com/Rajaraman77/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319383/0a08f4f8-bfd5-4884-b9a4-8e675ab92d1b)
 
 **Output:**
+**Timing Diagram**
 
 ![image](https://github.com/Rajaraman77/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319383/0e00894c-ff17-415f-9905-d385cf43a7ff)
 
+**Truth table**
 
-**Timing Diagram**
+![image](https://github.com/Rajaraman77/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319383/4b23474f-00b9-4516-8c9d-3f1caed43aa5)
 
-![image](https://github.com/Rajaraman77/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319383/462540bc-c1b0-41b2-bb62-384c01288b90)
+
+
 
 
 **Result:**
